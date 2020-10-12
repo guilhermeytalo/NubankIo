@@ -1,4 +1,4 @@
-# Ionic NUbank
+# Ionic Nubank
 
 Nubank interface with ionic + angular without third party libraries, only for study purposes.
 
