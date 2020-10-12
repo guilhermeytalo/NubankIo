@@ -14,7 +14,7 @@ $ cd NubankIo
 $ ionic serve
 ```
 
-After installation and the serve run on your machine, set your navigator to dev tools and "toogle device toolbar".
+After installation and the serve run on your machine, set your navigator to dev tools and "toogle device toolbar" to see in mobile perspective.
 
 
 
